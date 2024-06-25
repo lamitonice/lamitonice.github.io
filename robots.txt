@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lamitonice.github.io/sitemap
+Sitemap: https://lamitonice.github.io/app/sitemap
+Sitemap: https://lamitonice.github.io/assets/sitemap
+Sitemap: https://lamitonice.github.io/css/sitemap
+Sitemap: https://lamitonice.github.io/includes/sitemap
+Sitemap: https://lamitonice.github.io/item/sitemap
+Sitemap: https://lamitonice.github.io/src/sitemap
